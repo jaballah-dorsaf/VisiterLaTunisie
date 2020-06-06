@@ -1,0 +1,50 @@
+
+.card-movie {
+    height: 100%;
+  }
+  
+  .card-desc {
+    height: 70%;
+  }
+  
+  .btn-add {
+    margin: 20px;
+    background-color: aqua;
+  }
+  
+  .modal-body Input {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  .input-search{
+    width: 300px;
+    height: 40px;
+    margin: 16px 0;
+    padding-left: 25px ;
+    font-size: 12px;
+      letter-spacing: 0.15px;
+      border: none;
+      outline: none;
+    font-family: "Montserrat", sans-serif;
+      color: #a8a7a7;
+    background-color: #edf2f0;
+    margin-bottom: 30px;
+  
+  }
+  label{
+    color: #5c5959;
+  }
+  button{
+    width: 150px;
+      height: 55px;
+      border-radius: 27.5px;
+    margin-top: 10px;
+      font-weight: 700;
+      font-size: 14px;
+      letter-spacing: 1.15px;
+      background-color: #44b390;
+      color: white;
+      border: 2px solid white;
+    outline: none;
+    }
